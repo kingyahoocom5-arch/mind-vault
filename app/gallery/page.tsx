@@ -95,7 +95,7 @@ export default function GalleryPage() {
 
                   <div className="flex justify-between items-center pt-4 mt-4 border-t border-slate-800 text-xs">
                     <span className="text-slate-400">
-                      Mood: <strong class="text-slate-200">{card.mood}</strong>
+                      Mood: <strong className="text-slate-200">{card.mood}</strong>
                     </span>
                     <span className="text-[10px] text-amber-400/60 font-semibold tracking-wider">
                       MIND VAULT
